@@ -6,6 +6,11 @@
     </head>
 
     <body>
+        <?php
+        /*
+        @include('commons.error_tasks')
+        */
+        ?>
         @yield('content')
     </body>
 </html>
